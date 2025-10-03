@@ -1,5 +1,5 @@
 # exp 1
-# GENERATION OF  NETWORK WITH TRAFFIC 
+# GENERATION OF  NETWORK WITHOUT TRAFFIC 
 ## Objective: Same network, but generate traffic using TCP and FTP. 
 ## Code: 
 ```
