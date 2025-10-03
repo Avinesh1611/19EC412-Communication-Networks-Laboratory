@@ -1,3 +1,4 @@
+# exp 1
 # GENERATION OF  NETWORK WITH TRAFFIC 
 ## Objective: Same network, but generate traffic using TCP and FTP. 
 ## Code: 
@@ -48,5 +49,6 @@ $ns at 5.0 "finish"
 $ns run
 ```
 ## output:
-![WhatsApp Image 2025-08-22 at 09 47 53_872d6181](https://github.com/user-attachments/assets/134c6da7-aea5-474f-84f9-3226a6a2b004)
+![WhatsApp Image 2025-10-03 at 09 35 49_d26eba08](https://github.com/user-attachments/assets/39f16479-959e-46a8-86d1-4206cd32060a)
+
 
