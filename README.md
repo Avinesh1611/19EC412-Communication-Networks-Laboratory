@@ -51,4 +51,8 @@ $ns run
 ## output:
 ![WhatsApp Image 2025-10-03 at 09 35 49_d26eba08](https://github.com/user-attachments/assets/39f16479-959e-46a8-86d1-4206cd32060a)
 
+## RESULT:
+Thus, the GENERATION OF  NETWORK WITHOUT TRAFFIC  is performed using NS2.
+
+
 
